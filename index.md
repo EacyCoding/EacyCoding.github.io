@@ -2,7 +2,7 @@
 
 Harry Potter is a cool figure in the books and the films.
 
-##loves to destroy death eater
+## loves to destroy death eater
 
 * Hermine Granger
 * Ron Wesley
