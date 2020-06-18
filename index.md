@@ -1,9 +1,6 @@
 # Harry Potter
-
-##loves to destroy death eater
-
 Harry Potter is a cool figure in the books and the films.
-
+##loves to destroy death eater
 *Hermine Granger
 *Ron Wesley
 *Neville Longbottom
